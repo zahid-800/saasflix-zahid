@@ -769,12 +769,13 @@ a {
 .trust_card {
     background-color: #fff;
 }
-
+.testimonial. card{
+    padding:15px
+}
 .testimonial .card img {
     border-radius: 50%;
-    max-width:50px;
+    max-width:70px;
     margin: auto;
-    padding:15px;
 }
 
 @media(max-width:576px) {

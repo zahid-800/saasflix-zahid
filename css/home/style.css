@@ -151,20 +151,20 @@ ul li a {
 
 /* hero area page start */
 .saasflix_hero_area {
-   background: url(../../herobg.jpg) no-repeat;
+  /* background: url(../../herobg.jpg) no-repeat;
     background-position: center;
-    background-size: cover; 
-      /*background: #2EB789;*/
+    background-size: cover; */
+      background: #2EB789;
 }
 
 .saasflix_hero_left h1 {
-   background: linear-gradient(270deg, #FF9D42 0%, #FF6069 50.91%, #B16CEA 100%);
+  /* background: linear-gradient(270deg, #FF9D42 0%, #FF6069 50.91%, #B16CEA 100%);
     -webkit-background-clip: text;
     color: transparent; 
     font-size: 50px;
     font-weight: 800;
-    padding-bottom: 1rem;
-    /* color: #fff;*/
+    padding-bottom: 1rem;*/
+     color: #fff;
 
 }
 
@@ -174,7 +174,7 @@ ul li a {
     color: transparent; */
     font-size: 18px;
     font-weight: 600;
-    */ color: #fff;*/
+     color: #fff;
 }
 
 .hero_btn {
@@ -773,6 +773,7 @@ a {
 .trust_card_block img {
     border-radius: 50%;
     max-width:50px;
+    margin: auto;
 }
 
 @media(max-width:576px) {

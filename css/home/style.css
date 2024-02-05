@@ -151,7 +151,7 @@ ul li a {
 
 /* hero area page start */
 .saasflix_hero_area {
-   background: url(./herobg.jpg) no-repeat;
+   background: url(../../herobg.jpg) no-repeat;
     background-position: center;
     background-size: cover; 
       /*background: #2EB789;*/

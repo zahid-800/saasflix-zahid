@@ -167,7 +167,9 @@ ul li a {
 }
 
 .saasflix_hero_left p {
-    color: #fff;
+    background: linear-gradient(270deg, #FF9D42 0%, #FF6069 50.91%, #B16CEA 100%);
+    -webkit-background-clip: text;
+    color: transparent;
     font-size: 18px;
     font-weight: 500;
 }

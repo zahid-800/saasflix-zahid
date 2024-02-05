@@ -770,7 +770,7 @@ a {
     background-color: #fff;
 }
 
-.card img {
+.testimonial .card img {
     border-radius: 50%;
     max-width:50px;
     margin: auto;

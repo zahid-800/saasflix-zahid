@@ -169,11 +169,11 @@ ul li a {
 }
 
 .saasflix_hero_left p {
-    background: linear-gradient(270deg, #FF9D42 0%, #FF6069 50.91%, #B16CEA 100%);
+   /* background: linear-gradient(270deg, #FF9D42 0%, #FF6069 50.91%, #B16CEA 100%);
     -webkit-background-clip: text;
-    color: transparent; 
+    color: transparent; */
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 600;
     */ color: #fff;*/
 }
 
@@ -653,8 +653,6 @@ ul li a {
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    max-width: 330px;
-    margin: auto;
     text-align: center;
     font-family: arial;
 }
@@ -769,12 +767,12 @@ a {
 }
 
 .trust_card {
-    width: 300px;
     background-color: #fff;
 }
 
 .trust_card_block img {
     border-radius: 50%;
+    max-width:50px;
 }
 
 @media(max-width:576px) {

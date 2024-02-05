@@ -774,6 +774,7 @@ a {
     border-radius: 50%;
     max-width:50px;
     margin: auto;
+    padding:15px;
 }
 
 @media(max-width:576px) {
@@ -912,6 +913,7 @@ input[type=text], select, textarea {
   /* footer page start */
   .footer_bg{
     background: #001F3F;
+      padding-bottom:2rem;
   }
   .company_describe h3{
     font-size: 20px;
